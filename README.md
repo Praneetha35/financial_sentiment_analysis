@@ -1,0 +1,1 @@
+This project fine-tunes BERT for financial sentiment analysis on a combined FiQA and Financial PhraseBank dataset, achieving 73% accuracy in classifying positive, negative and neutral sentiments, demonstrating its value in interpreting financial texts for informed decision-making.
